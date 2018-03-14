@@ -1,0 +1,101 @@
+{
+  "etherscanApiKey": "34JVYM6RPM3J1SK8QXQFRNSHD9XG4UHXVU",
+  "chain": {
+    "private": {
+      "otc": "",
+      "threshold": {
+        "daieth": 2,
+        "daimkr": 1,
+        "ethmkr": 1
+      },
+      "tokens": {
+        "weth": {
+          "address": "",
+          "minValue": 0
+        },
+        "mkr": {
+          "address": "",
+          "minValue": 0
+        },
+        "dai": {
+          "address": "",
+          "minValue": 0
+        }
+      },
+      "proxyRegistry": "",
+      "proxyFactory": "",
+      "proxyContracts": {
+        "oasisDirect": ""
+      },
+      "addrEstimation": "",
+      "proxyEstimation": "",
+      "proxyDirectoryService": "",
+      "fromBlock": 0
+    },
+    "kovan": {
+      "otc": "0x8cf1cab422a0b6b554077a361f8419cdf122a9f9",
+      "threshold": {
+        "daieth": 2,
+        "daimkr": 1,
+        "ethmkr": 1
+      },
+      "tokens": {
+        "weth": {
+          "address": "0xd0a1e359811322d97991e03f863a0c30c2cf029c",
+          "minValue": 0.00000001
+        },
+        "mkr": {
+          "address": "0xaaf64bfcc32d0f15873a02163e7e500671a4ffcd",
+          "minValue": 0.00000001
+        },
+        "dai": {
+          "address": "0xc4375b7de8af5a38a93548eb8453a498222c4ff2",
+          "minValue": 0.00001
+        }
+      },
+      "proxyRegistry": "0x383a7fc29edde64aec7f776e2517ec8819e147f1",
+      "proxyFactory": "0x93ffc328d601c4c5e9cc3c8d257e9afdaf5b0ac0",
+      "proxyCreationAndExecute": "0x8e006e88aecb510e5fc0dfb04e3cc01fe97035e5",
+      "proxyContracts": {
+        "oasisDirect": "0xe635f5f52220a114fea0985abf7ec8144710507b"
+      },
+      "addrEstimation": "0xdb33dfd3d61308c33c63209845dad3e6bfb2c674",
+      "proxyEstimation": "0x1b68f4c1681e723f5c6db120cc6a7da58db37c37",
+      "proxyDirectoryService": "",
+      "fromBlock": 0
+    },
+    "main": {
+      "otc": "0x14fbca95be7e99c15cc2996c6c9d841e54b79425",
+      "threshold": {
+        "daieth": 2,
+        "daimkr": 1,
+        "ethmkr": 1
+      },
+      "tokens": {
+        "weth": {
+          "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "minValue": 0.00000001
+        },
+        "mkr": {
+          "address": "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2",
+          "minValue": 0.00000001
+        },
+        "dai": {
+          "address": "0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359",
+          "minValue": 0.00000001
+        }
+      },
+      "proxyRegistry": "0xaa63c8683647ef91b3fdab4b4989ee9588da297b",
+      "proxyFactory": "0x1043fbd15c10a3234664cbdd944a16a204f945e6",
+      "proxyCreationAndExecute": "0xb0a00896f34655edff6c8d915fb342194c4a6d48",
+      "proxyContracts": {
+        "oasisDirect": "0x279594b6843014376a422ebb26a6eab7a30e36f0"
+      },
+      "addrEstimation": "",
+      "proxyEstimation": "",
+      "proxyDirectoryService": "",
+      "fromBlock": 0
+    }
+  }
+}
+    
